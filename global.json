@@ -850,7 +850,7 @@
     },
     "base": {
       "value": {
-        "lineHeight": "{lineHeights.none}",
+        "lineHeight": "{lineHeights.tight}",
         "fontSize": "{fontSizes.base}"
       },
       "type": "typography"
